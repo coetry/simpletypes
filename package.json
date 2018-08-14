@@ -1,5 +1,5 @@
 {
-  "name": "simpletypes",
+  "name": "@coetry/simpletypes",
   "description": "simple type checks for js",
   "version": "0.0.0",
   "repository": {
