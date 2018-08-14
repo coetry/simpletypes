@@ -1,7 +1,7 @@
 {
   "name": "@coetry/simpletypes",
   "description": "simple type checks for js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "url": "git://github.com/coetry/tx.git"
   },
