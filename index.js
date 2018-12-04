@@ -8,7 +8,7 @@ module.exports = {
 }
 
 function isANumber (x) {
-  if (typeof x === 'number' && !isNan(x)) {
+  if (typeof x === 'number' && !isNaN(x)) {
     return true
   }
   return false
