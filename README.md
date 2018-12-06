@@ -1,12 +1,13 @@
-# simpletypes
+### simpletypes
 
-8 functions are exported to check for simple JS types
+7 functions are exported to check for simple JS types
 
-### `isANumber(arg)`
-### `isAString(arg)`
-### `isAnArray(arg)`
-### `isAnObject(arg)`
-### `isAFunction(arg)`
-### `isABoolean(arg)`
-### `isUndefined(arg)`
-### `isNaN(arg)`
+```js
+isANumber(3)
+isAString('yo')
+isAnArray([7, 8, 9])
+isAnObject({name: 'foolan', isCool: false})
+isAFunction(x => x)
+isABoolean(true)
+isUndefined(undefined)
+```

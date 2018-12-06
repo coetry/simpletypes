@@ -4,7 +4,8 @@ module.exports = {
   isAnArray,
   isAnObject,
   isAFunction,
-  isBoolean
+  isBoolean,
+  isUndefined
 }
 
 function isANumber (x) {
